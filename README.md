@@ -543,4 +543,4 @@ This project is created for educational and internship purposes.
 
 ---
 
-*DevOps Internship Program — Completed June 2025*
+*DevOps Internship Program — Completed June 2026*
